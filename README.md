@@ -8,20 +8,24 @@ Click "Clone Repository" button
 
 ### Usage
 
+1. First you build your interface. In this project the Item interface has been provided.
+2. Implement the Interface in the desired class.
+3. Extend the abstract class Product on your custom class.
+
 #### Contributing
 
--Fork it!
--Create your feature branch: git checkout -b my-new-feature
--Commit your changes: git commit -am 'Add some awesome feature'
--Push to the branch: git push origin my-new-feature
--Submit a pull request :
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some awesome feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :|
 
 ##### Credits
 
--Oracle
--IntelliJ
-- @profvanselow
-- stackoverflow.com
+* Oracle
+* IntelliJ
+* [@profvanselow](https://github.com/profvanselow)
+* [@TPettis](https://github.com/TPettis)
 
 ###### License
 
